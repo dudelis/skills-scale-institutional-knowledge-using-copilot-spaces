@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Update the [RACI matrix template](octoacme-raci-matrix-template.md) when a retrospective exposes unclear ownership or handoffs
 
 ## Example Action Item Template
 - Title:

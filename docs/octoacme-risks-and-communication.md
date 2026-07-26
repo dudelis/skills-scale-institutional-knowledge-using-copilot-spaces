@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Use the [RACI matrix template](octoacme-raci-matrix-template.md) to confirm who approves, communicates, and escalates key decisions
 
 ## Communication Templates
 Weekly Status Template:

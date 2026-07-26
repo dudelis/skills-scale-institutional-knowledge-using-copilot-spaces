@@ -13,7 +13,7 @@ OctoAcme follows a structured, iterative lifecycle to deliver projects predictab
 - **Release & Deployment** — Standardize releases (Patch / Minor / Major) with pre-release checks, deployment checklists, smoke tests, and rollback plans.
 - **Retrospective & Continuous Improvement** — After each sprint, release, or milestone, capture what went well, what to improve, and track action items to completion.
 
-Key roles include the **Project Manager** (delivery coordination), **Product Manager** (outcome ownership), **Developers** (implementation), **QA** (quality validation), and **Stakeholders** (inputs and approvals).
+Key roles include the **Project Manager** (delivery coordination), **Product Manager** (outcome ownership), **Engineering Lead** (technical direction), **Developers** (implementation), **QA** (quality validation), and **Stakeholders** (inputs and approvals).
 
 ## Process Documents
 
@@ -26,4 +26,5 @@ Key roles include the **Project Manager** (delivery coordination), **Product Man
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register, lifecycle, stakeholder communication templates, and escalation paths |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release types, deployment checklist, rollback playbook, and release notes template |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, action item tracking, and improvement culture |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions of Developer, Product Manager, and Project Manager roles |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions of delivery roles, interaction points, and lifecycle ownership |
+| [RACI Matrix Template](octoacme-raci-matrix-template.md) | Copy/paste template for clarifying ownership, approvals, and handoffs |
