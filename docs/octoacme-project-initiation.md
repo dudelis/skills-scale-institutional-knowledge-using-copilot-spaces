@@ -17,6 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
+- Initial lifecycle ownership map (RACI)
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
@@ -32,6 +33,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Initial [Lifecycle RACI Matrix](octoacme-raci-matrix-template.md) drafted and reviewed
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

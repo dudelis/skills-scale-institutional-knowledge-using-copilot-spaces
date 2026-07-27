@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm lifecycle ownership with the [Lifecycle RACI Matrix Template](octoacme-raci-matrix-template.md)
 
 ## Backlog Item Template
 - Title:
@@ -39,5 +40,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
+- [ ] Lifecycle RACI matrix reviewed and updated
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted

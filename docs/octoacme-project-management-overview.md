@@ -26,6 +26,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Lifecycle RACI Matrix
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -43,4 +44,5 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Start each initiative with the [Lifecycle RACI Matrix Template](octoacme-raci-matrix-template.md) and keep it current through release.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.

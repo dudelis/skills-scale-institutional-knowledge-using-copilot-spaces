@@ -26,4 +26,5 @@ Key roles include the **Project Manager** (delivery coordination), **Product Man
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register, lifecycle, stakeholder communication templates, and escalation paths |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release types, deployment checklist, rollback playbook, and release notes template |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, action item tracking, and improvement culture |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions of Developer, Product Manager, and Project Manager roles |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions of core and supporting delivery roles, responsibilities, and interactions |
+| [Lifecycle RACI Matrix Template](octoacme-raci-matrix-template.md) | Copy/paste matrix to define phase-by-phase ownership and handoffs |
