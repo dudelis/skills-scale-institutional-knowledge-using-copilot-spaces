@@ -16,6 +16,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Lead: owns technical direction, feasibility, and delivery trade-offs.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
@@ -25,6 +26,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
+- RACI Matrix for decisions, approvals, and handoffs
 - Risk Register
 - Retrospective notes and action items
 
@@ -43,4 +45,5 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Copy the [RACI matrix template](octoacme-raci-matrix-template.md) at project kickoff when ownership or approvals span multiple roles.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
